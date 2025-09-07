@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jourdan!
-- 🌱 Software Engineer Intern at Red Hat Inc
 - 📚 Final year student studying Digital Humanities & Information Technology at University College Cork
+- 🌱 Former Software Engineer Intern at Red Hat Inc
 - 💼 Currently contributing to products while exploring a range of DevOps tech [AWS, Ansible, Kubernetes...]
 - 👾 Working with Linux (RHEL) / Windows
 - 🎮 I love playing games such as R6, Minecraft and Sons of the Forest
