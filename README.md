@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jourdan!
+# Hello, I'm Jourdan!
 - 📚 Final year student studying Digital Humanities & Information Technology at University College Cork
 - 🌱 Former Software Engineer Intern at Red Hat Inc
 - 💼 Currently contributing to products while exploring a range of DevOps tech [AWS, Ansible, Kubernetes...]
