@@ -1,8 +1,8 @@
 # Hello, I'm Jourdan!
 - 📚 Final year student studying Digital Humanities & Information Technology at University College Cork
-- 🌱 Former Software Engineer Intern at Red Hat Inc
+- 🌱 (Incoming) Software Engineer & Former SWE Intern at Red Hat Inc
 - 💼 Currently contributing to products while exploring a range of DevOps tech [AWS, Ansible, Kubernetes...]
-- 👾 Working with Linux (RHEL) / Windows / MacOS
+- 👾 Working with Linux (Fedora) / Windows / MacOS
 - 🎮 I love playing games such as Arc Raiders, Assetto Corsa Competizione and Abiotic Factor
 
 # Tech Stack:
